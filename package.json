@@ -1,0 +1,21 @@
+{
+  "name": "node-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "startold": "node src/app.js",
+    "start": "nodemon src/index.js",
+    "dev": "DEBUG=* nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize-cli": "^5.5.1"
+  },
+  "devDependencies": {
+    "ms": "^2.1.2"
+  }
+}
