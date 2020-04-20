@@ -1,3 +1,6 @@
+## 安装命令
+npm install
+
 ## 启动命令
 npm start
 
